@@ -1,2 +1,4 @@
 this is my file 2 for git txt
 adding more content to file two
+
+2026 footer note added
