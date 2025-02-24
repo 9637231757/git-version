@@ -11,3 +11,5 @@ fiftih bug ditected and fixed
 another fix message for pinkmode
 
 yet another fix message for mastermode
+
+eight bug fixed
